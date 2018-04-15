@@ -7,24 +7,24 @@ Simply run ``python <py file>``
 
 # Output
 
-Original Image:
+Original Image:<br />
 <img src = "images/obama.png">
-Flip:
+Flip:<br />
 <img src = "images/obama-flip.png">
 
-Original Image:
+Original Image:<br />
 <img src = "images/guesswho.png">
-Denoise once:
+Denoise once:<br />
 <img src = "images/denoise.png">
-Denoise twice:
+Denoise twice:<br />
 <img src = "images/denoise2.png">
-Original Image:
+Original Image:<br />
 <img src = "images/bonkers-bw-zoom.png">
-Edge detection:
+Edge detection:<br />
 <img src = "images/bonkers-edges-zoom.png">
-Original Image:
+Original Image:<br />
 <img src = "images/phobos1.png">
-Edge detection:
+Edge detection:<br />
 <img src = "images/phobos1-edges.png">
-Sharpening:
+Sharpening:<br />
 <img src = "images/phobos1-sharp.png">
