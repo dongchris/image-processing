@@ -7,12 +7,12 @@ Simply run ``python <py file>``
 
 # Output
 
-Original Image:<br />
-<img src = "images/obama.png">
-Flip:<br />
-<img src = "images/obama-flip.png">
+<tr>
+<td><img src = "images/obama-flip.png"></td>
+<td><img src = "images/guesswho.png"></td>
+</tr>
 
-Original Image:<br />
+<br />
 <img src = "images/guesswho.png">
 Denoise once:<br />
 <img src = "images/denoise.png">
