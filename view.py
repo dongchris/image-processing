@@ -7,3 +7,4 @@ filename = sys.argv[1] # get the argument passed to us by operating system
 img = Image.open(filename) # load file specified on the command line
 img = img.convert("L") # grayscale
 img.show()
+img.save(%s-%s.png % (sys.argv[1][:-4], sys.argv[0][:-3]))

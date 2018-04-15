@@ -27,3 +27,4 @@ minus(img, edges).show()
 
 
 
+img.save(%s-%s.png % (sys.argv[1][:-4], sys.argv[0][:-3]))

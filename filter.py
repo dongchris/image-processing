@@ -54,3 +54,4 @@ def filter(img, f):
             pixels[x, y] = f(r)
 
     return imgdup
+img.save(%s-%s.png % (sys.argv[1][:-4], sys.argv[0][:-3]))

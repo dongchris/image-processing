@@ -67,3 +67,4 @@ img.show()
 
 # call your denoise function here
 denoise(img).show()
+img.save(%s-%s.png % (sys.argv[1][:-4], sys.argv[0][:-3]))

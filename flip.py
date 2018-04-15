@@ -26,3 +26,4 @@ img.show()
 
 # call your flip function here
 flip(img).show()
+img.save(%s-%s.png % (sys.argv[1][:-4], sys.argv[0][:-3]))

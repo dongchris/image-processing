@@ -67,4 +67,4 @@ img = img.convert("L")
 img.show()
 
 # call your blur function here
-blur(img).show()
+blur(img).show()img.save(%s-%s.png % (sys.argv[1][:-4], sys.argv[0][:-3]))

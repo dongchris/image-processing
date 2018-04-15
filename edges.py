@@ -6,4 +6,4 @@ def laplace(coord):
 img = open(sys.argv)
 img.show()
 edges = filter(img, laplace)
-edges.show()
+edges.show()img.save(%s-%s.png % (sys.argv[1][:-4], sys.argv[0][:-3]))
