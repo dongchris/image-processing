@@ -8,8 +8,8 @@ Simply run ``python <py file>``
 # Output
 
 <tr>
-<td><img src = "images/obama-flip.png"></td>
-<td><img src = "images/guesswho.png"></td>
+<td><img src = "images/obama-flip.png"/></td>
+<td><img src = "images/guesswho.png"/></td>
 </tr>
 
 <br />
